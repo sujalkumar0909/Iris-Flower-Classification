@@ -14,7 +14,7 @@ Develop a machine learning model to classify Iris flowers into three species (*s
 
 ##  Quick Start
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/iris-classification.git
+git clone https://github.com/sujalkumar0909/Iris-Flower-Classification
 cd iris-classification
 
 2. Install Dependencies
